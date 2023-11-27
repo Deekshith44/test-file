@@ -7,4 +7,6 @@ animals.shift();
 
 animals.unshift("me", "you", "everyone");
 
+animals.pop();
+
 console.log(animals);
